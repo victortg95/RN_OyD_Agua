@@ -1,0 +1,21 @@
+column_dict = {'Direccion del viento (g)' : ['DirViento','Dir','Dirección del Viento (grados)'],
+	'Direccion de rafaga (g)' : ['DirRafaga','Dirección de ráfaga (grados)','WSMDir'],
+	'Rapidez de viento (km/h)' : ['WSK','Rapidez de viento (km/h)','RapViento'],
+	'Rapidez de rafaga (km/h)' : ['RapRafaga','WSMK','Rapidez de ráfaga (km/h)'],
+	'Temperatura (C)' : ['AvgTemp','Temperatura del Aire (°C)','TempAire'],
+	'Humedad Relativa (%)' : ['HumRelativa','AvgRh','Humedad relativa (%)'],
+	'Presion Atmosferica (hpa)' : ['PresBarometric','Presión Atmosférica (hpa)','AvgBP'],
+	'Precipitacion (mm)' : ['Precipitación (mm)', 'Precipitacion','Rain'],
+	'Radiacion Solar (W/m2)' ['AvgSR','Radiación Solar (W/m²)','RadSolar']
+	}
+
+
+'Time', 'Fecha Local', 'fecha', 'Date'
+
+'Date' : 2000 Abr 10
+'Fecha Local' : 12/1/2023  12:00:00 AM
+'Time' : 8:20:00 PM
+'fecha' : 12/1/2019  2:00:00 AM
+
+OBJETIVO
+'Fecha' : 2008-01-01 // '%Y/%m/%d'
